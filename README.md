@@ -5,7 +5,7 @@ I regularly solve problems to improve my problem-solving, logic-building, and pr
 ## 🌐 Connect With Me
 - 💼 [HackerRank Profile](https://www.hackerrank.com/profile/subhashinisiva16)
 - 🔗 [LinkedIn](www.linkedin.com/in/subhashini-sivakumar-837277262)
-- 🧑‍💻 [GitHub]([https://github.com/your-username](https://github.com/SubhashiniSivakumar))
+- 🧑‍💻 [GitHub](https://github.com/SubhashiniSivakumar)
 
 ## 🧩 HackerRank | Problem-Solving Journey 🚀
 This repo contains all my **HackerRank problem solutions**.  
